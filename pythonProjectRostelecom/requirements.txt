@@ -1,0 +1,6 @@
+urllib3
+selenium
+pytest
+termcolor
+pytest-selenium
+allure-python-commons
